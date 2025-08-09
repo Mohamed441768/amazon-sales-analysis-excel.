@@ -1,0 +1,38 @@
+# Amazon Sales Analysis (Excel Project)
+
+This project is a data analysis case study of **Amazon sales** using **Microsoft Excel**.  
+It includes cleaning, exploration, pivot tables, and dashboards to uncover useful business insights.
+
+## 📊 Project Overview
+
+The dataset contains sales records from Amazon, and the analysis focuses on:
+- Identifying the top-selling products
+- Exploring sales by city
+- Understanding customer payment preferences
+- Creating a clear and informative dashboard
+
+## 🛠️ Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts & Visualizations
+
+## 📌 Key Insights
+- Best-selling products across regions
+- Cities with the highest revenue
+- Popular payment methods
+- Clean, visual summary using dashboards
+
+## 📁 Files Included
+- `Data analysis for Amazone Excel.xlsx` — The main analysis workbook
+- `top_selling_products.png` — Bar chart of top-selling products
+- `dashboard_snapshot.png` — Snapshot of the dashboard (if available)
+
+## 🚀 About Me
+I'm currently learning data analysis tools such as **Excel**, **SQL**, and **Power BI**  
+This is one of my first practical projects to build real-world skills.
+
+---
+
+**Feel free to share your feedback or suggestions!**
+
+#DataAnalysis #Excel #AmazonSales #PivotTables #Dashboard #ExcelProject #PowerBI #SQL
